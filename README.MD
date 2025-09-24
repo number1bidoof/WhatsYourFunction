@@ -13,4 +13,4 @@
         }
         System.out.println(x);
         ///System.out.println(y); causes an error
-in this situation, x which is in the method scope can be accessed anywhere **inside the method**, but y **cannot** 
+in this situation, x which is in the method scope can be accessed anywhere **inside the method**, but y **cannot.** 
