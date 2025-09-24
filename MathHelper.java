@@ -12,7 +12,7 @@ public class MathHelper {
         return miniNum;
     }
     public static void printResult(int x){
-        System.out.println("The result is: " + x);
+        System.out.println("The result is... " + x);
     }
 
     public static void main(String[] args) {
